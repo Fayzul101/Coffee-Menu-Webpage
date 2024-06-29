@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+}
+
+.flavor{
+    text-align: left;
+    width: 50%;
+}
+.price{
+    text-align: right;
+    width:50%;
+}
+.item p{
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.established{
+    font-style: italic;
+}
+main{
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding:20px;
+}
+body{
+    font-family: sans-serif;
+    background-image: url(cup-coffee-with-leaf-design-it_1340-23640.jpg);
+}
+h1,h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+h1{
+    margin-top: 0px;
+}
+.bottom_line{
+    margin-top: 20px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: brown;
+}
+a:hover{
+    color: brown;
+}
